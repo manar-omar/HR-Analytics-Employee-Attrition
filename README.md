@@ -123,19 +123,19 @@ Investigated relationships between Attrition and:
 
 Employees working overtime showed a significantly higher attrition rate compared to employees who do not work overtime.
 
-images/overtime_attrition.png
+<img width="309" height="191" alt="OverTime_Attrition" src="https://github.com/user-attachments/assets/9c026c06-4638-41d5-b07e-b9bbd7d7cd66" />
 
 ### Monthly Income vs Attrition
 
 Employees who left the company generally had lower monthly incomes than employees who remained.
 
-images/income_attrition.png
+<img width="869" height="469" alt="MonthlyIncome_Attrition" src="https://github.com/user-attachments/assets/5336b80a-38ea-4ff5-85e1-ba1b8647041f" />
 
 ### Job Role vs Attrition
 
 Sales Representatives showed the highest attrition rate among all job roles.
 
-images/jobrole_attrition.png
+<img width="444" height="470" alt="JobRole_Attrition" src="https://github.com/user-attachments/assets/d0da9818-f786-4743-a52c-a4241cc12e97" />
 
 
 ## Conclusion
