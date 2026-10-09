@@ -117,6 +117,26 @@ Investigated relationships between Attrition and:
 - Strengthen onboarding programs for newly hired employees.
 - Conduct regular employee satisfaction assessments.
 
+## Key Visualizations
+
+### Overtime vs Attrition
+
+Employees working overtime showed a significantly higher attrition rate compared to employees who do not work overtime.
+
+images/overtime_attrition.png
+
+### Monthly Income vs Attrition
+
+Employees who left the company generally had lower monthly incomes than employees who remained.
+
+images/income_attrition.png
+
+### Job Role vs Attrition
+
+Sales Representatives showed the highest attrition rate among all job roles.
+
+images/jobrole_attrition.png
+
 
 ## Conclusion
 
